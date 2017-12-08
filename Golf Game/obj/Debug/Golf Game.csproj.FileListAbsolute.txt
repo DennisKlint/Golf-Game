@@ -1,0 +1,6 @@
+c:\users\lexicon\documents\visual studio 2015\Projects\Golf Game\Golf Game\bin\Debug\Golf Game.exe.config
+c:\users\lexicon\documents\visual studio 2015\Projects\Golf Game\Golf Game\bin\Debug\Golf Game.exe
+c:\users\lexicon\documents\visual studio 2015\Projects\Golf Game\Golf Game\bin\Debug\Golf Game.pdb
+c:\users\lexicon\documents\visual studio 2015\Projects\Golf Game\Golf Game\obj\Debug\Golf Game.csprojResolveAssemblyReference.cache
+c:\users\lexicon\documents\visual studio 2015\Projects\Golf Game\Golf Game\obj\Debug\Golf Game.exe
+c:\users\lexicon\documents\visual studio 2015\Projects\Golf Game\Golf Game\obj\Debug\Golf Game.pdb
